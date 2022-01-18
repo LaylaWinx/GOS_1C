@@ -13,3 +13,5 @@
 1 - сбор датасетов, поиск и обучение модели - https://colab.research.google.com/drive/1wC4MEiz0zC8GkHikQ5D1x7Kk4E9sDsBQ?usp=sharing
 
 2 - тестовый запуск моего скрипта из колаба - https://colab.research.google.com/drive/1XAjg5qMpdu4bpPgmywliBQqnKPfPSGMq?usp=sharing
+
+Качество на отложенной тестовой выборке в моем датасете - 93.5% точности определения (доля верно угаданных классов)
